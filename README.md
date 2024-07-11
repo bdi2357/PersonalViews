@@ -1,10 +1,9 @@
-"""
+<!--
 !# PersonalViews
 !# My views regarding different aspects of life.  Trying to reflect data centric approach together with robust reasoning methods 
-"""
+-->
 
 # Welcome to My GitHub Profile!
-![This is an image](https://github.com/bdi2357/bdi2357/blob/main/prey.jpg)
 ![Profile Photo](https://github.com/bdi2357/bdi2357/blob/main/itay_2.jpg) <!-- Replace with your actual photo URL -->
 
 ## Introduction
