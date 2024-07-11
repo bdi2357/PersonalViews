@@ -4,8 +4,8 @@
 """
 
 # Welcome to My GitHub Profile!
-
-![Profile Photo](https://github.com/bdi2357/bdi2357/itay_2.jpg) <!-- Replace with your actual photo URL -->
+![This is an image](https://github.com/bdi2357/bdi2357/blob/main/prey.jpg)
+![Profile Photo](https://github.com/bdi2357/bdi2357/blob/main/itay_2.jpg) <!-- Replace with your actual photo URL -->
 
 ## Introduction
 Hi, I'm Itay Ben-Dan, a Full Stack Machine Learning Engineer with expertise in end-to-end machine learning solutions, from data engineering and model development to deployment and maintenance. My experience includes training agents on top of large language models, developing advanced forecasting methods, and building robust ETL pipelines and CI/CD workflows to ensure seamless model integration and performance monitoring.
