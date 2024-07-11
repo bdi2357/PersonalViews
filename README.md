@@ -9,10 +9,10 @@
 Using emojis can make your profile more engaging and visually appealing. Here are some recommendations for where to place them:
 
 ## Introduction
-Hi, I'm Itay Ben-Dan, a Full Stack Machine Learning Engineer with expertise in end-to-end solutions, from data engineering and model development to deployment and maintenance. I excel in training agents 🤖🤖🤖🤖 using large language models 🦙🦙🦙🦙 , developing advanced forecasting methods, and building robust ETL pipelines and CI/CD workflows. 
+Hi, I'm Itay Ben-Dan, a Full Stack Machine Learning Engineer with expertise in end-to-end solutions, from data engineering and model development to deployment and maintenance. I excel in training agents 🕵️‍♂️  using large language models 🦙 , developing advanced forecasting methods, and building robust ETL pipelines and CI/CD workflows. 
 
 ## Professional Summary
-I am a Machine Learning Engineer and Researcher with extensive experience in sports, finance, and robotics. ⚽💰🤖 My expertise includes advanced data analytics, machine learning, and applying large language models for complex problem-solving. 🧠🔧 I specialize in training agents on LLMs, developing multi-agent systems, and creating robust ETL pipelines. 🌐📊
+I am a Machine Learning Engineer and Researcher with extensive experience in sports ⚽, finance, and robotics 🤖.  My expertise includes advanced data analytics, machine learning, and applying large language models for complex problem-solving. 🧠🔧 I specialize in training agents on LLMs, developing multi-agent systems, and creating robust ETL pipelines. 
 
 ## Skills and Technologies
 - **Programming Languages:** Python, R, C++, Java
